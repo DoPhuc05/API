@@ -1,3 +1,4 @@
+kaggle
 fastapi
 uvicorn
 opencv-python-headless
